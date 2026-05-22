@@ -1,0 +1,12 @@
+/* App.css: Custom base styles for a modern, polished look */
+
+/* Example: Add a soft shadow utility */
+.soft-shadow {
+	box-shadow: 0 2px 16px rgba(0,0,0,0.10), 0 1.5px 4px rgba(0,0,0,0.08);
+}
+
+/* Example: Add a glassy effect utility */
+.glass {
+	background: rgba(28,30,34,0.85);
+	backdrop-filter: blur(16px);
+}

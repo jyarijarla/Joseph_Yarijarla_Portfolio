@@ -1,11 +1,11 @@
-@import "tailwindcss";
+﻿@import "tailwindcss";
 
 html, body {
   margin: 0;
   padding: 0;
   font-family: 'Space Grotesk', 'Inter', 'Segoe UI', Arial, sans-serif;
-  background: #111114;
-  color: #fafafa;
+  background: #e8ddd0;
+  color: #1c1917;
   font-size: 18px;
   letter-spacing: 0.01em;
   min-height: 100vh;

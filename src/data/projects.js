@@ -46,7 +46,7 @@ export const projects = [
             "Built and documented 17+ REST API endpoints with clean separation of concerns — making the system straightforward to extend without touching existing routes.",
         ],
         tags: ["React", "MySQL", "Node.js", "Docker", "AWS", "CI/CD", "Git"],
-        image: "/Museum.png",
+        image: "/Museum_optimized.webp",
         github: "https://github.com/jyarijarla/Museum-Project",
         demo: "https://museum-project-umber.vercel.app/",
     },

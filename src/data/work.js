@@ -12,7 +12,7 @@ export const workItems = [
             "Integrated submissions into Google Sheets via an Apps Script webhook pipeline — with timeout handling and graceful fallback behavior for reliable data capture.",
         ],
         tags: ["React", "TypeScript", "Vite", "React Router", "Google Sheets API", "Apps Script"],
-        image: "/CFCWebsite.png",
+        image: "/CFCWebsite_optimized.webp",
         github: "https://github.com/digitalweb-acfi/cfcWebsite2026",
         demo: "https://cfcaustin.org",
     },

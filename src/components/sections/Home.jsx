@@ -69,9 +69,7 @@ export const Home = () => {
                             </div>
 
                             <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mb-8">
-                                <span className="text-stone-500 text-base">CS @ University of Houston</span>
-                                <span className="text-stone-300">·</span>
-                                <span className="text-stone-500 text-base">May 2026</span>
+                                <span className="text-stone-500 text-base">CS Graduate @ University of Houston</span>
                             </div>
 
                             <p className="text-stone-600 text-base leading-relaxed max-w-md mb-10">
